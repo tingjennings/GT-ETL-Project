@@ -40,9 +40,19 @@ At the end of the week, your team will submit a Final Report that describes the 
 
 * **L**oad: the final database, tables/collections, and why this was chosen.
 
-### Group Members: Viera Garcia, Ting Jennings, Erin Zheng, Ricardo Benitez, Tina Huang
+We used 3 different CSVs from a Kaggle data set that was published by FIDE. The three data sets we found were:
+•	Players.csv
+o	This csv has the players information including their name, fide_id, federation, chess title, gender, and YoB.
+•	Rating_2019.csv
+o	This csv displays fide_id, year, month, rating standard, rating rapid, and rating blitz for 2019.
+•	Rating_2020.csv
+o	This csv displays fide_id, year, month, rating standard, rating rapid, and rating blitz for 2020.
 
-# GT-ETL-Project
-# GT-ETL-Project
-# GT-ETL-Project-2
-# GT-ETL-Project
+The fields of interest include the following:
+•	Name
+•	Fide Id
+•	Rating Standard
+•	Federation
+•	Year of Birth
+
+### Group Members: Viera Garcia, Ting Jennings, Erin Zheng, Ricardo Benitez, Tina Huang
