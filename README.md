@@ -13,7 +13,7 @@ We are planning on bringing 3 csv files into the postgress database and cleaning
 
 With our project we decided to use 2 data sources. This is the site were we collected our data:
 
-* [Kaggle](https://www.kaggle.com/rohanrao/chess-fide-ratings)
+** [Kaggle](https://www.kaggle.com/rohanrao/chess-fide-ratings)
 
 ### Project Instructions
 ### Data Cleanup & Analysis
